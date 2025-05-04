@@ -25,3 +25,35 @@ Each program is beginner-friendly and covers important core Java concepts like l
 ## 📁 Folder Structure
 
 Each program is in its own `.java` file and named accordingly:
+ReverseString.java
+
+PalindromeCheck.java
+
+FibonacciSeries.java
+
+Factorial.java
+
+PrimeNumberCheck.java
+
+LargestInArray.java
+
+ArmstrongNumber.java
+
+SwapNumbers.java
+
+CountVowelsConsonants.java
+
+DuplicateInArray.java
+
+
+Make sure you have **JDK installed** and added to your system path.
+
+---
+
+## ⭐ About
+
+This repo is maintained by **NYCTA** to help students and freshers prepare for Java coding interviews with simple and practical examples.
+# Made by SK SAHIL
+---
+
+
